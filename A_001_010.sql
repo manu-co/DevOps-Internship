@@ -32,5 +32,3 @@ select empno,ename from emp where comm is not null;
 
 --10) Display the employee number and name who do not earn any comm.
 select empno,ename from emp where comm is null;
-
-/*
