@@ -1,4 +1,3 @@
-    -- does a particular table exist
     IF EXISTS ( SELECT  1
                 FROM    information_schema.Tables
                 WHERE   table_schema = 'testDB'
