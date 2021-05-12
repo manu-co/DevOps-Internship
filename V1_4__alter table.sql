@@ -1,0 +1,1 @@
+--insert into emp value(1,2,3);
